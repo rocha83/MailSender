@@ -78,7 +78,7 @@ namespace Rochas.Net.Connectivity
                     if (!UseResilience)
                     {
                         await _mailClient.SendMailAsync(message);
-                        result = new MailSendResult(true, string.Empty);
+                        result = new MailSendResult(true, "OK");
                     }
                     else if (attachs == null)
                     {
