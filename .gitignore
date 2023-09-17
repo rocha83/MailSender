@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Rochas.MailSender/bin/Debug/netstandard2.1
+/Rochas.MailSender/obj
+/.vs/Rochas.MailSender/FileContentIndex
+/.vs/Rochas.MailSender/v17
