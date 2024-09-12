@@ -10,7 +10,7 @@
     <Description>A simple resilient smtp mail sender</Description>
     <RepositoryUrl>https://github.com/rocha83/MailSender</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <PackageTags>SMTP light simple lightweight resilient client smart sync synchronous async asynchronous send retries</PackageTags>
     <PackageLicenseFile>GNUv2_License.txt</PackageLicenseFile>
   </PropertyGroup>
